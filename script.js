@@ -1,1 +1,1 @@
-alert("Coucou");
+console.log("Hello, World!");
